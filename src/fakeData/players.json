@@ -1,0 +1,101 @@
+[{
+    "id": 1,
+    "name": "Aaron Finch",
+    "salary": 1338.98,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170630/aaron-finch.jpg"
+  }, {
+    "id": 2,
+    "name": "Steven Smith",
+    "salary": 1310.32,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170624/steven-smith.jpg"
+  }, {
+    "id": 3,
+    "name": "David Warner",
+    "salary": 4189.10,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170635/david-warner.jpg"
+  }, {
+    "id": 4,
+    "name": "Joe Burns",
+    "salary": 984.23,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c180293/joe-burns.jpg"
+  }, {
+    "id": 5,
+    "name": "Will Pucovski",
+    "salary": 2700.56,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c165716/will-pucovski.jpg"
+  }, {
+    "id": 6,
+    "name": "Glenn Maxwell",
+    "salary": 4740.59,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170641/glenn-maxwell.jpg"
+  }, {
+    "id": 7,
+    "name": "Marcus Stoinis",
+    "salary": 4972.33,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c176605/marcus-stoinis.jpg"
+  }, {
+    "id": 8,
+    "name": "Moises Henriques",
+    "salary": 3516.17,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152405/moises-henriques.jpg"
+  }, {
+    "id": 9,
+    "name": "Marnus Labuschagne",
+    "salary": 1448.63,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c184115/marnus-labuschagne.jpg"
+  }, {
+    "id": 10,
+    "name": "Travis Head",
+    "salary": 2859.64,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c147703/travis-head.jpg"
+  }, {
+    "id": 11,
+    "name": "Michael Neser",
+    "salary": 3101.92,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155994/michael-neser.jpg"
+  }, {
+    "id": 12,
+    "name": "Ashton Agar",
+    "salary": 3121.61,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155995/ashton-agar.jpg"
+  }, {
+    "id": 13,
+    "name": "Cameron Green",
+    "salary": 4086.07,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c198706/cameron-green.jpg"
+  }, {
+    "id": 14,
+    "name": "Daniel Sams",
+    "salary": 3443.50,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c180315/daniel-sams.jpg"
+  }, {
+    "id": 15,
+    "name": "Alex Carey",
+    "salary": 3679.28,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170667/alex-carey.jpg"
+  }, {
+    "id": 16,
+    "name": "Matthew Wade",
+    "salary": 2295.94,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156205/matthew-wade.jpg"
+  }, {
+    "id": 17,
+    "name": "Tim Paine",
+    "salary": 2848.46,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155979/tim-paine.jpg"
+  }, {
+    "id": 18,
+    "name": "Pat Cummins",
+    "salary": 1923.82,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170651/pat-cummins.jpg"
+  }, {
+    "id": 19,
+    "name": "Andrew Tye",
+    "salary": 2741.46,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156051/andrew-tye.jpg"
+  }, {
+    "id": 20,
+    "name": "Mitchell Swepson",
+    "salary": 4158.99,
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156052/mitchell-swepson.jpg"
+  }]
